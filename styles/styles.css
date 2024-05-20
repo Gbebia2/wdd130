@@ -72,7 +72,6 @@ footer {
     padding: 1rem;
     background-color: #add8e6;
     color: #312a2a;
-    max-width: 300px; /* Set a maximum width */
-    max-height: auto;
+    max-width: 300px;
     border: 1px solid rgba(0, 0, 139, 0.9);
 }
