@@ -35,6 +35,12 @@ main {
     max-width: 840px;
 }
 
+main img {
+    width: 150px;
+    height: auto;
+    float: right;
+}
+
 aside {
     width: 20rem;
     text-align: center;
@@ -50,12 +56,6 @@ aside h2 {
 aside img {
     width: 200px;
     height: auto;
-}
-
-main img {
-    width: 150px;
-    height: auto;
-    float: right;
 }
 
 p {padding: 0;}
