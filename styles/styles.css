@@ -38,12 +38,13 @@ main {
 aside {
     width: 20rem;
     text-align: center;
+    position: relative;
 }
 
 aside h2 {
     position: absolute;
-    top: 580px;
-    left: 130px;
+    top: 20px;
+    left: 180px;
 }
 
 aside img {
@@ -54,7 +55,7 @@ aside img {
 main img {
     width: 150px;
     height: auto;
-    float: right
+    float: right;
 }
 
 p {padding: 0;}
