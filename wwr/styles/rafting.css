@@ -37,17 +37,17 @@ header {
   
   .hero article {
     position: absolute;
-    background-color: rgba(27, 97, 129, 0.6); /* Adjust opacity as needed */
+    background-color: rgba(27, 97, 129, 0.6);
     color: #EAF4F0;
     padding: 10px;
-    width: 20%; /* Adjust width as needed */
+    width: 20%;
     top: 20%;
     left:40%;
   }
 
   .hero article img {
     float: right;
-    margin-left: 20px; /* Adjust spacing as needed */
+    margin-left: 20px;
   }
 
 main {
